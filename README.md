@@ -20,4 +20,6 @@ Bu proje ilkokul-ortaokul çağındaki çocukların yangın sırasında yapması
 - **W,A,S,D/Yön Tuşları:** Hareket etme.
 - **C/Ctrl:** Eğilme.
 - **E:** Çevredeki nesnelerle etkileşime girme.
-- **Mouse(Sol Tık):** UI Butonları ve telefon ekranı etkileşimi.
+- **Mouse(Sol Tık):** UI Butonları ve telefon ekranı etkileşimi. <br/>
+### *Menü arayüz*
+ ![image_alt](https://github.com/RabiaAyik/AfetBilinciOyunu/blob/main/MenuArayuz.PNG?raw=true) <br/> 
