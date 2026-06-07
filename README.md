@@ -22,4 +22,17 @@ Bu proje ilkokul-ortaokul çağındaki çocukların yangın sırasında yapması
 - **E:** Çevredeki nesnelerle etkileşime girme.
 - **Mouse(Sol Tık):** UI Butonları ve telefon ekranı etkileşimi. <br/>
 ### *Menü arayüz*
- ![image_alt](https://github.com/RabiaAyik/AfetBilinciOyunu/blob/main/MenuArayuz.PNG?raw=true) <br/> 
+ ![image_alt](https://github.com/RabiaAyik/AfetBilinciOyunu/blob/main/MenuArayuz.PNG?raw=true) 
+### *Oyun İçi Görsel*
+![image_alt](https://github.com/RabiaAyik/AfetBilinciOyunu/blob/8b20bc1f3dd2be375dfabbd3e38e911a8b92fd15/oyunEkran.PNG)
+### *Oyun İçi Görsel 2*
+![image_alt](https://github.com/RabiaAyik/AfetBilinciOyunu/blob/8b20bc1f3dd2be375dfabbd3e38e911a8b92fd15/oyun_2.PNG)
+### *Nefes Bitimi Ekranı*
+![image_alt](https://github.com/RabiaAyik/AfetBilinciOyunu/blob/8b20bc1f3dd2be375dfabbd3e38e911a8b92fd15/yenidendene.PNG)
+### *Başarı Ekranı*
+![image_alt](https://github.com/RabiaAyik/AfetBilinciOyunu/blob/8b20bc1f3dd2be375dfabbd3e38e911a8b92fd15/basari.PNG)
+## 👩‍💻Geliştirici Bilgileri/İletişim
+- **Ad Soyad:** Rabia Ayık
+- **Mail:** rabiaayik089@gmail.com
+- **Üniversite/Bölüm:** Bursa Uludağ Üni./Yönetim Bilişim Sistemleri
+
