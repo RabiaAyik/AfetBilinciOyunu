@@ -1,4 +1,4 @@
-# Alevden Kaç Oyunu
+# 🎮Alevden Kaç Oyunu
 Bu proje ilkokul-ortaokul çağındaki çocukların yangın sırasında yapması gereken davranışları , güvenli şekilde tahliye olmayı ,tahliye olduktan sonra hangi numarayı aramaları gerektiğini eğlenceli bir arayüzle ve geri bildirimlerle çocuğa ezber değil refleks şeklinde öğretmeyi amaçlayan **Ciddi Oyun(Serious Game)** projesidir.
 ## 📌Proje amacı
 - Çocuğa görevler vererek yapması gerekenleri ezberletmek yerine eğlenceli şekilde davranışa dönüştürmek.
